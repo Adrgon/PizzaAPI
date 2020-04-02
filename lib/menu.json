@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "MUSA",
+    "Price": 200.00,
+    "Ingredients": ["Muzzarella", "aceitunas", "salsa de tomate"],
+    "Vegetarian": false,
+    "Vegan": false
+  },
+  {
+    "Id": 2,
+    "Name": "NOPOLITANA",
+    "Price": 250.00,
+    "Ingredients": ["Muzzarella", "Tomate", "Oregano", "Salsa de tomate", "Oliva"],
+    "Vegetarian": false,
+    "Vegan": false
+  },
+  {
+    "Id": 3,
+    "Name": "FUGAZA",
+    "Price": 270.00,
+    "Ingredients": ["Muzzarella", "Cebolla", "Oregano", "Pimienta"],
+    "Vegetarian": false,
+    "Vegan": false
+  },
+  {
+    "Id": 4,
+    "Name": "Provolone",
+    "Price": 225.00,
+    "Ingredients": ["Muzzarella", "Provolone", "Oregano", "aceitunas", ],
+    "Vegetarian": false,
+    "Vegan": false
+  }
+]

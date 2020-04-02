@@ -1,0 +1,8 @@
+{
+  "name": "pizzaapi",
+  "version": "1.0.0",
+  "description": "Homework assignment #2 for Pirple Node JS master class",
+  "main": "index.js",
+  "author": "Adrian L Gonzalez - @adrgon",
+  "license": "MIT"
+}
